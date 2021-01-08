@@ -1,4 +1,4 @@
-//Alexander Rollison 1001681800
+//Alexander Rollison
 #ifndef DresserLib_H
 #define DresserLib_H
 
