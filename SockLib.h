@@ -1,4 +1,4 @@
-//Alexander Rollison 1001681800
+//Alexander Rollison
 #ifndef SockLib_H
 #define SockLib_H
 
