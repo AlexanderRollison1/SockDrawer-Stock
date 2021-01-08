@@ -1,5 +1,5 @@
-#Alexander Rollison 1001681800
-SRC1 = Code6_1001681800.c
+#Alexander Rollison
+SRC1 = Code6.c
 SRC2 = DrawerLib.c
 SRC3 = DresserLib.c
 SRC4 = SockLib.c
